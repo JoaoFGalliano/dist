@@ -57,6 +57,5 @@ public class GameList {
 			return false;
 		GameList other = (GameList) obj;
 		return Objects.equals(id, other.id);
-	}
-	
+	}	
 }
